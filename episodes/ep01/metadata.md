@@ -17,6 +17,7 @@ Sweet dreams, space explorer. 💫
 
 ---
 🔔 Subscribe for more sleepy space adventures:
+https://www.youtube.com/@SleepySpaceExplorer
 New episodes every week — a new part of the universe to dream about.
 
 #KidsBedtimeStories #SleepStoriesForKids #SpaceStoriesForKids #BedtimeMeditation #SleepySpaceExplorer

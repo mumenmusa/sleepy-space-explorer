@@ -1,19 +1,21 @@
 # 🎙️ Voice Guide
 
-## Chosen Voice: Shimmer
+## Chosen Voice: ElevenLabs — Fable
 
-After testing all 5 OpenAI TTS voices (Alloy, Echo, Fable, Onyx, Nova) and slower variations, **Shimmer** was selected as the production voice for Sleepy Space Explorer.
+After testing OpenAI TTS voices (all speeds), **ElevenLabs with Fable** is the confirmed production voice.
 
-- **Why Shimmer:** OpenAI's softest voice — hushed, gentle, perfect for bedtime
-- **Runner-up:** Fable (storyteller warmth) or Nova (soothing)
+- **Why ElevenLabs:** Dramatically more natural and warm than OpenAI TTS — no robotic processing artifacts
+- **Why Fable:** Warm storyteller quality, perfect for bedtime narration
+- **OpenAI TTS rejected:** All speeds (0.75x, 0.85x, 1.0x) had a robotic echo/processing quality
+- **Lesson:** OpenAI TTS speed reduction below 0.9x introduces heavy artifacts; even at 1.0x the voice processing sounds synthetic for long-form narration
 
 ## TTS Settings
 
 | Setting | Value |
 |---------|-------|
 | Model | `tts-1-hd` |
-| Voice | `shimmer` |
-| Speed | `0.80` |
+| Voice | `fable` |
+| Speed | `0.75` |
 | Format | `mp3` |
 
 ## Generation Script
@@ -28,8 +30,8 @@ curl -s https://api.openai.com/v1/audio/speech \
   -d '{
     "model": "tts-1-hd",
     "input": "<SCRIPT_TEXT>",
-    "voice": "shimmer",
-    "speed": 0.80
+    "voice": "fable",
+    "speed": 0.75
   }' \
   --output episodes/ep01/narration-part1.mp3
 ```

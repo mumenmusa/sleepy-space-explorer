@@ -2,9 +2,10 @@
 
 A kids' bedtime sleep podcast on YouTube — calm, slow-paced space storytelling designed to help children drift off to sleep.
 
+**YouTube Channel:** https://www.youtube.com/@SleepySpaceExplorer  
 **Format:** 30-minute narrated stories, soft ambient audio, static visual  
 **Target age:** 5–10 years  
-**Voice:** OpenAI TTS (Shimmer voice, 0.80x speed)  
+**Voice:** ElevenLabs (Fable voice)  
 **Art:** AI-generated album artwork per episode  
 
 ## Channel Concept
@@ -40,9 +41,8 @@ sleepy-space-explorer/
 
 ## Voice Settings
 
-- **Model:** `tts-1-hd`
-- **Voice:** `shimmer` (OpenAI's softest voice)
-- **Speed:** `0.80`
+- **Engine:** ElevenLabs
+- **Voice:** Fable
 - **Format:** MP3
 
 ## Episode Ideas Backlog

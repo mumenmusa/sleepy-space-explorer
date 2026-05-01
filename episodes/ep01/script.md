@@ -1,7 +1,7 @@
 # Episode 01 — Script
 ## A Gentle Journey to the Moon 🌙
 
-> **Voice:** Shimmer | **Speed:** 0.80x | **Target length:** ~30 min (4,500–5,000 words)
+> **Voice:** Fable | **Speed:** 0.75x | **Target length:** ~30 min (4,500–5,000 words)
 
 ---
 
