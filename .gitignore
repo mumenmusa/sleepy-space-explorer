@@ -1,0 +1,30 @@
+# Audio files (large binaries — store separately or in cloud)
+*.mp3
+*.mp4
+*.wav
+*.aac
+*.m4a
+
+# Generated video
+*.mov
+*.avi
+*.mkv
+
+# Art (optional — uncomment if you want to track images)
+# *.jpg
+# *.png
+# *.jpeg
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temp / working files
+tmp/
+.tmp/
