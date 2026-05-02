@@ -18,6 +18,15 @@ A palette of real, grounded, familiar things to draw from when writing new episo
 - Chickens settling into their coop at night
 - Eucalyptus tree — silver-green leaves, sharp clean smell
 - Orange tree — round bright fruit, sweet warm scent
+- Mishmish (apricot tree) — small gold fruit, velvety skin, soft sweet smell in summer
+- Nectarine tree — smooth red-gold fruit, warm and heavy on the branch
+- Blueberry bushes — clusters of small round fruit, deep blue-purple
+- Olive tree — silver-grey leaves, gnarled trunk, tiny hard fruit
+- Plumeria — thick waxy petals, heavy tropical fragrance, white and yellow
+- Jade plant — thick rubbery leaves, deep green, sculptural and slow-growing
+- Loquat (escudinia) — clusters of small orange-yellow fruit, broad leaves
+- Persimmon (kaki) — bright orange globes hanging on bare branches in autumn
+- Apple tree — round and red, the smell of something almost ready
 - Milkweed — tall stems, sticky white sap, small pink flower clusters
 - Monarch butterflies — orange, black, gold; slow drifting wings
 - Damp evening grass between the toes
@@ -66,6 +75,10 @@ A palette of real, grounded, familiar things to draw from when writing new episo
 - Red clay dirt — the kind that stains
 - Hawks circling on thermals over dry hills
 - The smell of sage after rain
+- The blue house — the current home; white stucco, terracotta roof, blue trim
+- The white house — the old house; smaller, quieter, a different neighborhood
+- Hills covered in dry golden grass rolling in all directions
+- Mountains on the horizon — blue-grey in the morning, dark purple at dusk
 - Distant mountains visible on a clear day
 - A farmers market in the morning — warm bread, flowers in buckets, someone playing guitar
 

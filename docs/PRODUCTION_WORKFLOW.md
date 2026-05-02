@@ -17,6 +17,19 @@ Follow this process for every episode, start to finish.
 - ✅ Right: *"The little explorer's boots crunched on the silver dust. Ahead, a crater the size of a swimming pool glowed faintly blue..."*
 - ❌ Wrong: *"Feel the weight of your legs. Let them be heavy. Think about your day..."*
 
+#### Script File Structure
+- **Section headers (`## Part 01 — ...`) are internal script markers only** — they must never appear in TTS chunk text
+- When splitting into TTS chunks, strip all headers before sending to the API
+- **Section breaks in the audio = long pause cluster** — use 3–5 `...` lines on their own to create a natural breath between story beats; never announce a new section
+- ✅ Right: strip header, start chunk with the first line of narration
+- ❌ Wrong: feeding `## Part 03 — Liftoff` into TTS (it will be read aloud as "Part 03, hashtag hashtag Liftoff")
+
+#### Episode Independence
+- **Each episode is self-contained** — a listener can start at any episode and feel complete
+- **No callbacks to previous episodes** — never reference "last time" or "remember when we visited the Moon"
+- **Shared world elements are fine** — the backyard, the spacecraft, the explorer can recur, but woven in as part of the world, not as explicit continuity
+- **Subtle, not serial** — if two episodes share a detail, it should feel like a familiar texture, not a reminder
+
 #### Pacing & Formatting
 - **Narrator is a presence, not a coach** — never say "Good", "That's great", "Well done" — the narrator can't see the listener
 - **One idea per line** — never run two thoughts together on the same line

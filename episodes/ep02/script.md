@@ -3,7 +3,6 @@
 
 ---
 
-## Part 01 — The Backyard Again
 
 The night is quiet.
 
@@ -79,7 +78,6 @@ And that's when you see it.
 
 ---
 
-## Part 02 — The Spacecraft Returns
 
 It's back.
 
@@ -167,7 +165,6 @@ with a soft click.
 
 ---
 
-## Part 03 — Liftoff, Again
 
 The hum gets a little warmer.
 
@@ -245,7 +242,6 @@ carried.
 
 ---
 
-## Part 04 — Through the Clouds
 
 The clouds come first.
 
@@ -325,7 +321,6 @@ And you.
 
 ---
 
-## Part 05 — The Moon Passes By
 
 The moon is off to the left.
 
@@ -337,7 +332,7 @@ You recognize it now.
 
 Those craters.
 
-That wide flat plain where you sat last time.
+That wide, flat plain of silver dust.
 
 ...
 
@@ -401,7 +396,6 @@ is where you're going.
 
 ---
 
-## Part 06 — The Asteroid Belt
 
 After a while...
 
@@ -481,7 +475,6 @@ You keep going.
 
 ---
 
-## Part 07 — Jupiter in the Distance
 
 A shape appears ahead.
 
@@ -571,7 +564,6 @@ Jupiter falls behind.
 
 ---
 
-## Part 08 — Deeper Into the Dark
 
 Now you are very far from home.
 
@@ -643,7 +635,6 @@ Something ringed.
 
 ---
 
-## Part 09 — Saturn Appears
 
 There it is.
 
@@ -723,7 +714,6 @@ Closer.
 
 ---
 
-## Part 10 — Into the Rings
 
 The ship angles toward the edge of the rings.
 
@@ -815,7 +805,6 @@ Quiet.
 
 ---
 
-## Part 11 — The Color of Saturn
 
 Through the rings...
 
@@ -895,7 +884,6 @@ it has.
 
 ---
 
-## Part 12 — Above the Rings
 
 The ship rises now.
 
@@ -981,7 +969,6 @@ From peace.
 
 ---
 
-## Part 13 — One of Saturn's Moons
 
 Off to the side...
 
@@ -1067,7 +1054,6 @@ Like something fragile.
 
 ---
 
-## Part 14 — Drifting Alongside the Rings
 
 The ship settles into a slow drift...
 
@@ -1145,7 +1131,6 @@ You could stay here for a very long time.
 
 ---
 
-## Part 15 — The Dark Side
 
 The ship turns slowly...
 
@@ -1225,7 +1210,6 @@ watch.
 
 ---
 
-## Part 16 — Finding a Place to Rest
 
 The ship finds a spot.
 
@@ -1303,7 +1287,6 @@ Like the whole world out here is resting.
 
 ---
 
-## Part 17 — Sitting Beneath Saturn
 
 There's a small window in the roof of the ship.
 
@@ -1365,7 +1348,6 @@ exactly as wonderful as you hoped.
 
 ---
 
-## Part 18 — The Explorer Grows Still
 
 Your body is very heavy now.
 
@@ -1441,7 +1423,6 @@ Around.
 
 ---
 
-## Part 19 — The Last Things
 
 The rings are so quiet.
 
@@ -1537,7 +1518,6 @@ forever.
 
 ---
 
-## Part 20 — Still
 
 The ship is still.
 
