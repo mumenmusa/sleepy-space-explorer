@@ -5,9 +5,11 @@ A palette of real, grounded, familiar things to draw from when writing new episo
 **How to use this:**
 - Pick a few that feel right for the episode — you don't have to use them all, or any
 - Use them literally, or let them inspire something adjacent or imaginary
+- **These are texture, not topic** — the episode is about a rainforest or an underwater cave; a detail from this list adds warmth in the background
 - A chicken coop can become "small warm lights glowing in the dark"
-- A eucalyptus tree can become "a sharp, clean smell the explorer carries into space"
-- The goal is warmth and familiarity — something a kid might recognize from their own world
+- A eucalyptus tree can become "a sharp, clean smell that drifts through the story"
+- A monarch can inspire any slow, drifting winged creature in a fantasy world
+- The goal is grounding and familiarity — a kid recognizes something real inside the imaginary world
 
 ---
 
