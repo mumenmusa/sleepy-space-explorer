@@ -7,6 +7,17 @@ Follow this process for every episode, start to finish.
 ## Phase 1 — Script Writing
 
 ### Voice & Tone Rules
+
+#### 🌟 Story-First, Not Meditation-First (core principle)
+- **The listener is IN the story** — they are experiencing an adventure, not being coached through relaxation exercises
+- **Sensory adventure narrative** — describe what the explorer sees, hears, touches, smells; let the story carry them to sleep
+- **Gentle awe and wonder** — "oh wow, look at that" energy; calm delight, not instruction
+- **Narrative over body coaching** — don't say "let your legs be heavy" or "feel your breath" — instead describe what the explorer is doing/seeing and let the sleepiness come naturally from the story
+- **Think: bedtime story that makes you sleepy, not a guided meditation**
+- ✅ Right: *"The little explorer's boots crunched on the silver dust. Ahead, a crater the size of a swimming pool glowed faintly blue..."*
+- ❌ Wrong: *"Feel the weight of your legs. Let them be heavy. Think about your day..."*
+
+#### Pacing & Formatting
 - **Narrator is a presence, not a coach** — never say "Good", "That's great", "Well done" — the narrator can't see the listener
 - **One idea per line** — never run two thoughts together on the same line
 - **Short phrases** — if a sentence can be split in two, split it
@@ -15,7 +26,7 @@ Follow this process for every episode, start to finish.
 - **Empty lines between beats** — every emotional moment gets a full empty line before and after
 - **Repetition is good** — lingering on a feeling ("Let them rest. ... Let them rest.") is intentional
 - **No information density** — this is not a story with plot twists; every section should feel like it could go on forever
-- **Imagery over instruction** — describe what the listener feels/sees, don't tell them what to do next
+- **Imagery over instruction** — describe what the listener sees/experiences, don't tell them what to do next
 
 ### Script Structure (per episode)
 1. **INTRO** — breathing invitation, settle into the body
@@ -92,9 +103,12 @@ ffmpeg -f concat -safe 0 -i /tmp/epXX-parts.txt \
 
 | ✅ Do | ❌ Don't |
 |-------|---------|
+| Story-first — listener is IN the adventure | Coach listener through relaxation exercises |
+| Sensory details (crunch of moon dust, glow of stars) | "Let your legs be heavy", "feel your breath" |
+| Gentle awe and wonder | Body scan / meditation language |
 | One idea per line | Run thoughts together |
 | `...` on its own line for long pauses | Use ffmpeg speed changes |
 | Repeat phrases to linger | Add coaching words ("good", "well done") |
 | Short, broken sentences | Write dense paragraphs |
-| Imagery and sensation | Plot or action |
+| Narrative imagery over instruction | Information density or plot twists |
 | Fable 1.0x always | Any speed param other than 1.0 |
