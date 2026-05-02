@@ -38,6 +38,16 @@ A palette of real, grounded, familiar things to draw from when writing new episo
 - The creak of a house settling
 - A half-finished glass of water on the nightstand
 - The faint sound of a TV somewhere in the house
+- A swimming pool at night — the water still, reflecting the moon
+- The sound of a pool pump humming quietly
+- Boys' shoes left by the door
+- A half-finished LEGO project on the table
+- The sound of a ceiling fan turning slowly
+- The particular silence after everyone in the house is asleep
+- A nightlight casting a soft orange circle on the wall
+- The weight of a sleeping little brother pressed against your side
+- A worn stuffed animal tucked under an arm
+- The sound of a parent's voice in another room — not the words, just the sound
 
 ---
 
@@ -51,6 +61,13 @@ A palette of real, grounded, familiar things to draw from when writing new episo
 - Bougainvillea — bright pink-purple against a white wall
 - Jacaranda trees — purple petals on the sidewalk
 - The sound of a neighbor's windchime
+- Dry creek beds that only fill when it rains
+- Oak trees with wide, reaching branches
+- Red clay dirt — the kind that stains
+- Hawks circling on thermals over dry hills
+- The smell of sage after rain
+- Distant mountains visible on a clear day
+- A farmers market in the morning — warm bread, flowers in buckets, someone playing guitar
 
 ---
 
@@ -76,6 +93,13 @@ A palette of real, grounded, familiar things to draw from when writing new episo
 - A hummingbird hovering at a flower, then gone
 - Fish drifting in still water
 - A lizard on a warm rock, perfectly still
+- A wolf pack moving silently through snow far away
+- A sea turtle gliding through dark water
+- A snow leopard asleep on a high ledge
+- A humpback whale singing — the sound traveling for miles
+- A platypus tucked into a riverbank den
+- A monarch migration — thousands of them, not just one
+- A cheetah at rest, tail twitching slowly
 
 ---
 
@@ -105,6 +129,11 @@ A palette of real, grounded, familiar things to draw from when writing new episo
 - The sound of water running somewhere nearby
 - Bread baking, or something warm in the kitchen
 - Something smooth and round in your hand — a stone, a shell
+- A sunflower too tall to look straight at
+- A fig tree — heavy fruit, sticky sap, sweet smell
+- Tomato plants on a warm afternoon — that sharp green smell
+- A caterpillar on a leaf, perfectly still
+- A spider web covered in morning dew
 
 ---
 
