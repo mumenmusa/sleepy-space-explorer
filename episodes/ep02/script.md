@@ -3,7 +3,6 @@
 
 ---
 
-
 The night is quiet.
 
 ...
@@ -38,6 +37,16 @@ clean and soft at the same time.
 
 ...
 
+The orange tree stands at the corner of the yard.
+
+The fruit hangs round and heavy...
+
+glowing faintly in the moonlight...
+
+like small lanterns someone forgot to take inside.
+
+...
+
 The chickens are quiet in their coop.
 
 You can see the warm glow from their little window.
@@ -47,6 +56,38 @@ Just a soft orange light...
 tucked behind the wooden slats...
 
 peaceful.
+
+...
+
+You breathe in.
+
+...
+
+You breathe out.
+
+...
+
+The hills beyond the neighborhood are dark shapes against the sky.
+
+No lights on them.
+
+Just the shapes...
+
+rolling and still.
+
+...
+
+The plumeria by the gate smells faint and sweet...
+
+a smell that only comes out at night.
+
+...
+
+You stand there for a moment.
+
+Just standing.
+
+Just breathing.
 
 ...
 
@@ -78,14 +119,19 @@ And that's when you see it.
 
 ---
 
+...
 
-It's back.
+...
+
+...
+
+It's there.
 
 ...
 
 The little silver spacecraft...
 
-sitting right where it was before...
+sitting right where it always is...
 
 at the edge of the yard...
 
@@ -93,19 +139,13 @@ near the orange tree.
 
 ...
 
-The orange tree's fruit glows softly in the moonlight.
+Round and quiet.
 
-Round.
-
-Still.
+Barely bigger than a large car.
 
 ...
 
-And next to it...
-
-that small round ship...
-
-humming.
+And humming.
 
 ...
 
@@ -113,9 +153,15 @@ Not loud.
 
 Just a low, gentle hum...
 
-like something alive...
+like a sleeping thing...
 
-like it was waiting for you.
+like something alive and patient...
+
+like it has been waiting here...
+
+all day...
+
+just for this moment.
 
 ...
 
@@ -123,19 +169,31 @@ You walk toward it slowly.
 
 The grass whispers under your feet.
 
+...
+
 A monarch butterfly lifts from the milkweed nearby —
 
-you can just barely see it in the dark,
+you can just barely see it in the dark...
 
 orange and black wings opening once...
+
+very slowly...
 
 then drifting away into the night.
 
 ...
 
-The door of the spacecraft slides open.
+You watch it go.
 
-Soft warm light spills out.
+...
+
+Then you turn back to the ship.
+
+...
+
+The door slides open.
+
+Soft warm light spills out onto the grass.
 
 ...
 
@@ -157,6 +215,12 @@ You settle in.
 
 ...
 
+Your shoulders drop.
+
+Your hands rest in your lap.
+
+...
+
 The door closes...
 
 quietly...
@@ -165,6 +229,9 @@ with a soft click.
 
 ---
 
+...
+
+...
 
 The hum gets a little warmer.
 
@@ -182,7 +249,17 @@ moving up through the seat...
 
 through your back...
 
-through your shoulders.
+through your shoulders...
+
+into your jaw.
+
+...
+
+Not uncomfortable.
+
+Just...
+
+alive.
 
 ...
 
@@ -204,11 +281,17 @@ The orange tree shrinks below you.
 
 The roof of the house gets smaller.
 
-The backyard...
+The mishmish tree beside the fence...
 
-the whole neighborhood...
+the olive tree in the corner...
 
-begins to look like a patchwork...
+the wide dark spread of the yard...
+
+it all begins to shrink.
+
+...
+
+The neighborhood becomes a patchwork...
 
 little squares of gold light...
 
@@ -232,6 +315,20 @@ You were never scared.
 
 ...
 
+The lights of the neighborhood are gold and orange below you now.
+
+Tiny.
+
+Like the embers of something.
+
+...
+
+Somewhere down there...
+
+everyone is asleep.
+
+...
+
 This is the best feeling in the world —
 
 rising into the dark...
@@ -242,12 +339,15 @@ carried.
 
 ---
 
+...
+
+...
 
 The clouds come first.
 
 ...
 
-Always the clouds.
+They always come first.
 
 ...
 
@@ -283,6 +383,8 @@ The stars are sharper up here.
 
 No blurry edges.
 
+No shimmer.
+
 Just clean, cold points of light...
 
 each one steady...
@@ -303,7 +405,15 @@ soft and thick and still.
 
 ...
 
-You watch it until it disappears in the dark below.
+You press your hand to the glass.
+
+...
+
+The window is cool.
+
+...
+
+You watch the clouds until they disappear in the dark below.
 
 ...
 
@@ -321,22 +431,29 @@ And you.
 
 ---
 
+...
+
+...
 
 The moon is off to the left.
 
 ...
 
-You recognize it now.
+It hangs there, round and silver...
+
+enormous from this distance.
 
 ...
 
-Those craters.
+You can see its craters from here.
 
-That wide, flat plain of silver dust.
+Wide shallow circles...
 
-...
+shadows pooled at their edges...
 
-You press your nose to the window for a moment.
+each one a record of something that happened...
+
+a very long time ago.
 
 ...
 
@@ -344,21 +461,29 @@ The moon looks the same as it always has from Earth —
 
 round and grey and glowing —
 
-but you know something different now.
+but from up here...
 
-You know how quiet it is up close.
+you notice things.
 
-How the dust doesn't move.
+The shadow on one side.
 
-How the shadows are long and still.
+The way the light catches the ridges.
+
+The way the surface is a thousand different shades of grey...
+
+not just one.
 
 ...
 
-You give it a small wave.
+You press your nose to the window for just a moment.
 
 ...
 
-And the ship carries you onward.
+Then lean back.
+
+...
+
+The ship carries you onward.
 
 ...
 
@@ -378,6 +503,8 @@ smaller than it looks from home...
 
 but still warm...
 
+still steady...
+
 still there.
 
 ...
@@ -396,10 +523,15 @@ is where you're going.
 
 ---
 
+...
+
+...
 
 After a while...
 
-long after the Earth has shrunk to just a blue dot behind you...
+long after the moon has faded behind you...
+
+long after the Earth has shrunk to just a pale blue dot...
 
 things begin to drift past the window.
 
@@ -417,23 +549,33 @@ floating rocks.
 
 ...
 
-Some of them are small — like pebbles spinning slowly in the dark.
+Some of them are small —
 
-Some of them are bigger — wide and rounded and grey...
+like pebbles spinning slowly in the dark.
+
+Some of them are bigger —
+
+wide and rounded and grey...
 
 tumbling end over end...
 
 very slowly.
 
+One here.
+
+Then a gap of empty space.
+
+Then two more.
+
 ...
 
 This is the asteroid belt.
 
-The space between the inner planets and the outer ones.
+The wide ring between the inner planets and the outer ones.
 
-A long, wide ring of leftover pieces...
+A long, slow scattering of leftover pieces...
 
-from when the solar system was being made...
+from when the solar system was still being made...
 
 a very, very long time ago.
 
@@ -457,15 +599,17 @@ Some pale grey.
 
 Some darker, almost black.
 
+One with a bright stripe of something lighter running across it...
+
+like a scar.
+
+...
+
 One catches the sunlight just right...
 
-and glimmers gold for a moment.
+and glimmers gold for a moment...
 
-...
-
-And then it's past.
-
-...
+and then it's past.
 
 Gone into the dark.
 
@@ -475,14 +619,15 @@ You keep going.
 
 ---
 
+...
+
+...
 
 A shape appears ahead.
 
 ...
 
 At first you think it's just a bright star.
-
-...
 
 But it doesn't flicker.
 
@@ -504,9 +649,9 @@ Striped.
 
 Orange and cream and pale brown...
 
-bands of cloud wrapping around it...
+bands of cloud wrapping all the way around it...
 
-like the patterns you'd find in old stone or carved wood...
+like the patterns you'd find in old polished stone...
 
 but moving.
 
@@ -524,11 +669,19 @@ The biggest planet.
 
 ...
 
-Enormous.
+If the sun were a front door...
 
-The ship feels very small next to it.
+Jupiter would be about the size of a basketball...
 
-You feel very small next to it.
+and Earth would be about the size of a pea...
+
+sitting somewhere down the block.
+
+...
+
+You feel the ship get very small next to it.
+
+You feel yourself get very small next to it.
 
 ...
 
@@ -536,11 +689,37 @@ But not in a frightening way.
 
 In the way that feels like wonder.
 
-Like standing at the edge of the ocean and looking out.
+Like standing at the edge of the ocean and looking out...
+
+and knowing the water goes all the way to somewhere you've never been.
 
 ...
 
-There are storms on Jupiter — storms larger than the whole Earth —
+You stay with it for a moment.
+
+Just looking.
+
+...
+
+Four moons orbit Jupiter.
+
+Faint points of light arranged in a line on either side.
+
+Each one its own world.
+
+Each one going around and around...
+
+year after year...
+
+century after century...
+
+quiet and steady.
+
+...
+
+There are storms on Jupiter —
+
+storms larger than the whole Earth —
 
 but from here...
 
@@ -548,7 +727,9 @@ from the window of your little ship...
 
 you can only see the bands of cloud...
 
-slow and wide and ancient.
+slow and wide and ancient...
+
+moving in opposite directions at once.
 
 ...
 
@@ -564,6 +745,9 @@ Jupiter falls behind.
 
 ---
 
+...
+
+...
 
 Now you are very far from home.
 
@@ -575,7 +759,9 @@ Still bright...
 
 still the brightest thing out here...
 
-but smaller.
+but smaller than you've ever seen it.
+
+Like someone turned the dimmer down.
 
 ...
 
@@ -597,15 +783,45 @@ Wherever you go...
 
 the stars are the same stars.
 
-The same ones your great-grandparents looked up at.
+The same ones your grandparents looked up at.
 
-The same ones that will be there long after.
+The same ones that were there before there were any people at all.
+
+The same ones that will still be there...
+
+long, long after.
 
 ...
 
 They make the dark feel...
 
 friendly.
+
+...
+
+You can feel your own breathing now.
+
+In.
+
+...
+
+Out.
+
+...
+
+The seat holds you.
+
+The ship carries you.
+
+The stars surround you.
+
+...
+
+You are very small out here.
+
+And somehow...
+
+that feels fine.
 
 ...
 
@@ -635,12 +851,25 @@ Something ringed.
 
 ---
 
+...
+
+...
 
 There it is.
 
 ...
 
 Saturn.
+
+...
+
+You stay very still.
+
+...
+
+You don't want to move.
+
+You don't want to do anything that might make this feel less real.
 
 ...
 
@@ -668,9 +897,9 @@ the rings.
 
 They stretch out on both sides...
 
-flat and wide...
+flat and wide and perfectly even...
 
-like someone drew a line through the middle of a planet...
+like someone drew a single clean line through the middle of a planet...
 
 except the line is made of millions and millions of pieces of ice...
 
@@ -678,9 +907,11 @@ and dust...
 
 and broken rock...
 
-all orbiting...
+each one on its own path...
 
-all moving...
+each one orbiting...
+
+all of them together...
 
 in perfect silence.
 
@@ -690,15 +921,13 @@ You can't hear anything.
 
 Space is silent.
 
-But if you could...
+But if you could hear the rings...
 
 you imagine it would sound like a river.
 
 ...
 
 A very slow, very wide, very quiet river.
-
-Frozen in time.
 
 ...
 
@@ -714,6 +943,9 @@ Closer.
 
 ---
 
+...
+
+...
 
 The ship angles toward the edge of the rings.
 
@@ -735,7 +967,11 @@ ice.
 
 ...
 
-Pieces of it — some the size of a fingernail, some the size of a house —
+Pieces of it —
+
+some the size of a fingernail...
+
+some the size of a house —
 
 floating past the window.
 
@@ -791,7 +1027,7 @@ They've been doing this for billions of years.
 
 Long before there were people.
 
-Long before there were chickens, or orange trees, or backyards.
+Long before there were chickens, or orange trees, or backyards, or anyone at all to look up and wonder.
 
 ...
 
@@ -805,6 +1041,9 @@ Quiet.
 
 ---
 
+...
+
+...
 
 Through the rings...
 
@@ -830,6 +1069,8 @@ Warm.
 
 Like afternoon light on pale stone.
 
+Like the color of honey held up to a lamp.
+
 ...
 
 Bands of slightly different shades run across it...
@@ -852,7 +1093,11 @@ From here they look like brushstrokes.
 
 Like someone painted the whole planet...
 
-with a wide, slow brush.
+with a wide, slow brush...
+
+and then stepped back...
+
+and waited for it to dry.
 
 ...
 
@@ -884,6 +1129,9 @@ it has.
 
 ---
 
+...
+
+...
 
 The ship rises now.
 
@@ -929,7 +1177,7 @@ You lean your head against the window.
 
 ...
 
-The glass is cool.
+The glass is cool against your cheek.
 
 ...
 
@@ -938,6 +1186,46 @@ The rings stretch out below you in a great wide arc...
 curving away in both directions...
 
 vanishing into the dark on each side.
+
+...
+
+You try to find the edge of them.
+
+You look left.
+
+They go...
+
+and go...
+
+and go.
+
+...
+
+You look right.
+
+The same.
+
+...
+
+There is no edge you can see.
+
+Just the slow, endless curve of them...
+
+bending away into the distance...
+
+like the edge of the world from a very high place.
+
+...
+
+You close your eyes for a moment.
+
+...
+
+You open them again.
+
+...
+
+The rings are still there.
 
 ...
 
@@ -969,6 +1257,9 @@ From peace.
 
 ---
 
+...
+
+...
 
 Off to the side...
 
@@ -1000,15 +1291,23 @@ It's called Enceladus.
 
 At its south pole...
 
-beneath the ice...
+beneath a thick shell of ice...
 
 there is a liquid ocean.
+
+Kept warm by the pull of Saturn's gravity...
+
+stretching and squeezing the moon...
+
+very gently...
+
+like kneading bread dough.
 
 ...
 
 And from cracks in the ice...
 
-water shoots up into space in long thin plumes.
+water shoots up into space in long, thin plumes.
 
 Frozen almost instantly by the cold.
 
@@ -1028,7 +1327,7 @@ white...
 
 like the finest mist...
 
-rising and curving and drifting away.
+rising and curving and drifting away into the rings.
 
 ...
 
@@ -1052,8 +1351,21 @@ You hold that thought gently.
 
 Like something fragile.
 
+Like a soap bubble.
+
+...
+
+You don't want to squeeze it.
+
+Just...
+
+hold it.
+
 ---
 
+...
+
+...
 
 The ship settles into a slow drift...
 
@@ -1103,11 +1415,7 @@ Enough.
 
 ...
 
-You breathe.
-
-...
-
-In.
+You breathe in.
 
 ...
 
@@ -1127,10 +1435,47 @@ Saturn glows.
 
 ...
 
+A very small piece of ice taps the window.
+
+So lightly you almost miss it.
+
+A tiny soft tick.
+
+And then it's past.
+
+...
+
+You watch where it went.
+
+You can't find it anymore.
+
+Just more ice.
+
+All of it the same.
+
+All of it different.
+
+...
+
+Your hands are loose in your lap.
+
+Your shoulders have dropped all the way down.
+
+...
+
 You could stay here for a very long time.
+
+You could stay here...
+
+and just...
+
+watch.
 
 ---
 
+...
+
+...
 
 The ship turns slowly...
 
@@ -1160,7 +1505,7 @@ hidden —
 
 but its light passes through the rings...
 
-through all those millions of pieces of ice...
+through all those millions of pieces of ice and dust and rock...
 
 and they glow.
 
@@ -1174,13 +1519,15 @@ Not bright.
 
 Not sharp.
 
-Just a soft, diffuse light...
+Just a soft, diffuse shimmer...
 
 the whole ring system...
 
-shimmering...
+lit up from behind...
 
-like something underwater.
+like a window with the curtains pulled...
+
+and light pressing through.
 
 ...
 
@@ -1188,11 +1535,7 @@ Saturn itself is a silhouette now.
 
 A dark shape...
 
-ringed in light.
-
-...
-
-It's the most beautiful thing you have ever seen.
+ringed in soft gold light.
 
 ...
 
@@ -1208,8 +1551,49 @@ You just...
 
 watch.
 
+...
+
+And watch.
+
+...
+
+And watch.
+
+...
+
+The dark side of Saturn is a different kind of dark.
+
+Not empty.
+
+Not cold.
+
+...
+
+Just quiet.
+
+The way a room is quiet when everyone in it is comfortable.
+
+When no one needs to say anything.
+
+When just being there is enough.
+
+...
+
+You breathe slowly.
+
+...
+
+The rings glow.
+
+...
+
+You breathe.
+
 ---
 
+...
+
+...
 
 The ship finds a spot.
 
@@ -1231,7 +1615,13 @@ A wide, smooth plain of ice.
 
 ...
 
-The ship sets down gently.
+The ship descends...
+
+slowly...
+
+so slowly...
+
+and sets down gently.
 
 ...
 
@@ -1271,7 +1661,7 @@ Flat and smooth as far as you can see.
 
 ...
 
-Not cold feeling.
+Not cold-feeling from in here.
 
 Not harsh.
 
@@ -1285,8 +1675,21 @@ still.
 
 Like the whole world out here is resting.
 
+Like it has been resting for a very long time.
+
+Like it knows how.
+
+...
+
+And maybe...
+
+you do too.
+
 ---
 
+...
+
+...
 
 There's a small window in the roof of the ship.
 
@@ -1324,13 +1727,13 @@ You have traveled further from home than most people will ever go.
 
 Further than the moon.
 
-Further than Mars.
+Further than the red planet.
 
-Out here past Jupiter...
+Out here past the giant storms of Jupiter...
 
-past the asteroid belt...
+past the long quiet stretch of the asteroid belt...
 
-to this quiet corner of the solar system...
+to this corner of the solar system...
 
 where a planet wears rings made of ice...
 
@@ -1346,8 +1749,41 @@ And it is...
 
 exactly as wonderful as you hoped.
 
+...
+
+More, even.
+
+...
+
+Because pictures don't have silence.
+
+And silence is the best part.
+
+...
+
+This quiet.
+
+This stillness.
+
+This feeling of being somewhere
+
+that doesn't need anything from you.
+
+...
+
+Just...
+
+be here.
+
+...
+
+That's all.
+
 ---
 
+...
+
+...
 
 Your body is very heavy now.
 
@@ -1357,15 +1793,21 @@ Not in a bad way.
 
 ...
 
-In the way that means you have been somewhere...
+In the way that means you have been somewhere.
 
-done something...
+Done something.
 
-seen something worth seeing.
+Seen something worth seeing.
 
 ...
 
 Your arms rest against the soft padding of the seat.
+
+...
+
+Your legs are heavy.
+
+Your feet are still.
 
 ...
 
@@ -1393,7 +1835,9 @@ tumbling end over end —
 
 catching the distant light for just a moment...
 
-and then gone.
+silver...
+
+then gone.
 
 ...
 
@@ -1423,6 +1867,9 @@ Around.
 
 ---
 
+...
+
+...
 
 The rings are so quiet.
 
@@ -1431,6 +1878,12 @@ The rings are so quiet.
 Out here there is no wind.
 
 No sound at all.
+
+No rustling in the olive tree.
+
+No hum of the refrigerator.
+
+No soft breathing from somewhere down the hall.
 
 ...
 
@@ -1450,11 +1903,15 @@ You think of home for a moment.
 
 ...
 
-The backyard.
+The backyard in the dark.
 
 The eucalyptus tree.
 
-The warm glow from the chicken coop.
+The warm glow from the coop.
+
+The plumeria next to the gate...
+
+its petals heavy and sweet.
 
 ...
 
@@ -1492,7 +1949,27 @@ The slow, endless turning.
 
 ...
 
+The light passing through the ice.
+
+...
+
+The ship so still.
+
+...
+
+The ice so quiet.
+
+...
+
 Your eyes are almost closed now.
+
+...
+
+Not fighting it.
+
+Just...
+
+letting it happen.
 
 ...
 
@@ -1514,10 +1991,17 @@ Passing through the ice...
 
 piece by piece...
 
+piece by piece...
+
 forever.
 
 ---
 
+...
+
+...
+
+...
 
 The ship is still.
 
@@ -1550,6 +2034,32 @@ in the dark.
 ...
 
 So far from everything.
+
+...
+
+So far from the backyard...
+
+and the coop...
+
+and the orange tree...
+
+and the hills beyond the fence.
+
+...
+
+And yet...
+
+not far at all.
+
+...
+
+Because everything you are...
+
+came with you.
+
+...
+
+It always does.
 
 ...
 

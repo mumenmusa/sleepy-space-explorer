@@ -2,9 +2,12 @@
 
 Follow this process for every episode, start to finish.
 
+⚠️ **Gated workflow — stop and wait for approval at each phase before proceeding.**
+Do not run all the way to MP4 in one shot. Each phase requires Mumen's explicit sign-off.
+
 ---
 
-## Phase 1 — Script Writing
+## Phase 1 — Script Writing (STOP — await approval before Phase 2)
 
 ### Voice & Tone Rules
 
@@ -61,9 +64,15 @@ Follow this process for every episode, start to finish.
 - ~22,000 chars / ~20 min per episode (calibration: ~1,100 chars ≈ 1 min at Fable 1.0x)
 - Split into 18–22 chunks of ≤ 4,096 chars each
 
+### Phase 1 Deliverable
+- Post the full script as a `.md` file upload to Slack (thread reply)
+- Include char count, estimated duration, and chunk count in the message
+- Ask: *"Script ready for review — approve to proceed to audio?"*
+- **Wait for explicit approval before moving to Phase 2**
+
 ---
 
-## Phase 2 — Audio Generation
+## Phase 2 — Audio Generation (STOP — await approval before Phase 3)
 
 ### TTS Settings (locked)
 - **Engine:** OpenAI TTS
@@ -87,6 +96,12 @@ sed -i '' "s|^|file '|; s|$|'|" /tmp/epXX-parts.txt
 ffmpeg -f concat -safe 0 -i /tmp/epXX-parts.txt \
   -acodec copy episodes/epXX/audio/narration-epXX-final.mp3
 ```
+
+### Phase 2 Deliverable
+- Upload the 128k MP3 narration to Slack (thread reply)
+- Include duration in the message
+- Ask: *"Narration ready — approve to proceed to art + video?"*
+- **Wait for explicit approval before moving to Phase 3**
 
 ---
 
