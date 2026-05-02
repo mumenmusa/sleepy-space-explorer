@@ -29,18 +29,24 @@ Follow this process for every episode, start to finish.
 - **Imagery over instruction** — describe what the listener sees/experiences, don't tell them what to do next
 
 ### Script Structure (per episode)
-1. **INTRO** — breathing invitation, settle into the body
-2. **PART 1** — body scan / settling in (arms heavy, legs heavy, eyes heavy)
-3. **PART 2** — liftoff / transition to journey
-4. **PART 3** — first wonder moment (clouds, stars, deep space, etc.)
-5. **PART 4** — deep journey (the main location / destination)
-6. **PART 5** — arrival / landing
-7. **PART 6** — stillness at the destination
-8. **WIND-DOWN** — eyes heavy, body sinking, drift to sleep
+1. **INTRO** — the world before liftoff; ground the listener in a familiar, sensory place
+2. **DEPARTURE** — the explorer discovers the spacecraft and lifts off gently
+3. **JOURNEY** — ascending through clouds, then into deep space; slow drift and wonder
+4. **ARRIVAL** — the destination reveals itself; landing is soft and quiet
+5. **EXPLORATION** — the explorer moves through the world; sensory detail, slow pacing
+6. **STILLNESS** — the explorer finds a place to rest within the story world; the story simply... slows... and drifts
+
+#### 🌙 Ending Rule (added 2026-05-01)
+- **End inside the story — never instruct the listener to sleep**
+- The episode ends as a narrative moment, not a coaching cue
+- The explorer simply gets very still, very quiet, in the story world — and the narrator's voice fades with the story
+- ✅ Right: *"She leaned back against the moon rock. The stars were so many. And so quiet. And she was..."*
+- ❌ Wrong: *"Sleep now, little explorer. Let your eyes close. Drift off to sleep."*
+- The listener falls asleep inside the adventure, not because they were told to
 
 ### Target Length
-- ~4,500–5,000 words for a ~30 min episode
-- The intro alone (phases 1–2) should run ~8–10 min
+- ~22,000 chars / ~20 min per episode (calibration: ~1,100 chars ≈ 1 min at Fable 1.0x)
+- Split into 18–22 chunks of ≤ 4,096 chars each
 
 ---
 
@@ -111,4 +117,6 @@ ffmpeg -f concat -safe 0 -i /tmp/epXX-parts.txt \
 | Repeat phrases to linger | Add coaching words ("good", "well done") |
 | Short, broken sentences | Write dense paragraphs |
 | Narrative imagery over instruction | Information density or plot twists |
+| End inside the story (explorer rests, world goes still) | "Sleep now", "close your eyes", "drift off" |
+| Aim for ~20 min per episode (~22,000 chars) | Episodes shorter than 15 min |
 | Fable 1.0x always | Any speed param other than 1.0 |
