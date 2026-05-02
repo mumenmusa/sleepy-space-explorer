@@ -7,55 +7,35 @@ The night is quiet.
 
 ...
 
-The kind of quiet that comes after everyone has gone to sleep...
+You're standing in the backyard...
 
-and the house has settled...
-
-and the only sound left in the world...
-
-is the wind moving very gently through the eucalyptus tree.
+and the air is still.
 
 ...
 
-You're outside.
+The mishmish tree near the fence is just a dark shape now.
+
+You can't see the fruit from here...
+
+but you know it's there.
+
+Round and small and perfect.
 
 ...
 
-The grass is cool beneath your feet.
+The jade plant by the steps catches a little moonlight on its leaves.
 
-The air smells like the end of the day —
-
-a little warm still...
-
-from the sun that was here just a few hours ago...
-
-and a little sharp...
-
-that eucalyptus smell...
-
-clean and soft at the same time.
+Thick and round and very still.
 
 ...
 
-The orange tree stands at the corner of the yard.
+Somewhere behind the back wall...
 
-The fruit hangs round and heavy...
+you can smell the nectarine tree from the neighbor's yard.
 
-glowing faintly in the moonlight...
+That sweet, soft smell...
 
-like small lanterns someone forgot to take inside.
-
-...
-
-The chickens are quiet in their coop.
-
-You can see the warm glow from their little window.
-
-Just a soft orange light...
-
-tucked behind the wooden slats...
-
-peaceful.
+warm even in the night air.
 
 ...
 
@@ -67,19 +47,23 @@ You breathe out.
 
 ...
 
-The hills beyond the neighborhood are dark shapes against the sky.
+The hills beyond the neighborhood rise up against the sky.
 
-No lights on them.
+Dark and slow and enormous.
 
-Just the shapes...
+No lights up there.
 
-rolling and still.
+Just the shapes of them...
+
+rolling away into the dark.
 
 ...
 
-The plumeria by the gate smells faint and sweet...
+The plumeria by the gate smells faint and sweet.
 
-a smell that only comes out at night.
+Some flowers only open their smell at night.
+
+This is one of them.
 
 ...
 
@@ -135,7 +119,7 @@ sitting right where it always is...
 
 at the edge of the yard...
 
-near the orange tree.
+near the mishmish tree.
 
 ...
 
@@ -171,19 +155,17 @@ The grass whispers under your feet.
 
 ...
 
-A monarch butterfly lifts from the milkweed nearby —
+Something rustles in the jade plant by the steps —
 
-you can just barely see it in the dark...
+a small sound...
 
-orange and black wings opening once...
+a leaf barely moving...
 
-very slowly...
-
-then drifting away into the night.
+then still again.
 
 ...
 
-You watch it go.
+You listen for a moment.
 
 ...
 
@@ -277,13 +259,13 @@ You rise.
 
 ...
 
-The orange tree shrinks below you.
+The mishmish tree shrinks below you.
 
 The roof of the house gets smaller.
 
-The mishmish tree beside the fence...
+The jade plant by the steps...
 
-the olive tree in the corner...
+the plumeria by the gate...
 
 the wide dark spread of the yard...
 
@@ -315,11 +297,11 @@ You were never scared.
 
 ...
 
-The lights of the neighborhood are gold and orange below you now.
+The lights of the neighborhood shrink below you.
 
-Tiny.
+Tiny squares of gold.
 
-Like the embers of something.
+Little dark streets between them.
 
 ...
 
@@ -1027,7 +1009,7 @@ They've been doing this for billions of years.
 
 Long before there were people.
 
-Long before there were chickens, or orange trees, or backyards, or anyone at all to look up and wonder.
+Long before there were trees, or backyards, or anyone at all to look up and wonder.
 
 ...
 
@@ -1905,13 +1887,13 @@ You think of home for a moment.
 
 The backyard in the dark.
 
-The eucalyptus tree.
+The mishmish tree by the fence.
 
-The warm glow from the coop.
+The jade plant by the steps.
 
-The plumeria next to the gate...
+The plumeria by the gate...
 
-its petals heavy and sweet.
+its smell still sweet in the night air.
 
 ...
 
@@ -2039,11 +2021,11 @@ So far from everything.
 
 So far from the backyard...
 
-and the coop...
+and the mishmish tree...
 
-and the orange tree...
+and the jade plant catching the moonlight...
 
-and the hills beyond the fence.
+and the hills rolling away into the dark.
 
 ...
 
