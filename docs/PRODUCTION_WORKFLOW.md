@@ -95,13 +95,70 @@ ffmpeg -f concat -safe 0 -i /tmp/epXX-parts.txt \
 
 ---
 
-## Phase 5 — Publishing
+## Phase 5 — Cover Art
 
-1. Generate cover art (see `episodes/epXX/art-prompt.md`)
-2. Export final mixed MP3
-3. Upload to YouTube as a static video (cover art as visual)
-4. Use metadata from `episodes/epXX/metadata.md` for title/description/tags
-5. Commit script + metadata to GitHub (audio excluded via `.gitignore`)
+### Style (locked from ep01)
+- **Model:** `openai/gpt-image-1` (OpenAI image generation v2)
+- **Style:** Pixar-storybook — bold, clean, friendly, slightly cartoonish but warm and detailed
+- **Palette:** Deep midnight blue, warm golds, soft silver — rich but calming
+- **Character:** Cute kid explorer with a face and personality — gives ages 6–8 something to connect with
+- **Mood:** Curious and cozy, not scared or excited
+- **Format:** 1024×1024 square
+- **No text in image** — title goes on YouTube as overlay/thumbnail text if needed
+
+### 3-Scene Video Art (for YouTube MP4)
+Generate 3 illustrations following the story arc:
+1. **Scene 1 — The World Before** — familiar, grounded setting (backyard, forest, beach — wherever the episode starts)
+2. **Scene 2 — The Journey** — in transit; spacecraft interior, clouds, deep space, underwater, etc.
+3. **Scene 3 — The Destination** — arrived and at rest; moon surface, forest floor, ocean shelf, etc.
+
+Each scene holds for ~1/3 of the episode duration. Concatenate with ffmpeg (no crossfade needed — simple cut is fine).
+
+### Video Assembly Command
+```bash
+# 1. Render each scene as a silent clip (~1/3 of audio duration each, 4fps)
+DUR=$(ffprobe -v quiet -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 narration.mp3 | awk '{printf "%d", $1/3}')
+ffmpeg -y -loop 1 -t $DUR -i scene1.png -vf "scale=1024:1024,format=yuv420p" -r 4 -c:v libx264 -preset ultrafast -crf 28 /tmp/clip1.mp4
+ffmpeg -y -loop 1 -t $DUR -i scene2.png -vf "scale=1024:1024,format=yuv420p" -r 4 -c:v libx264 -preset ultrafast -crf 28 /tmp/clip2.mp4
+ffmpeg -y -loop 1 -t $DUR -i scene3.png -vf "scale=1024:1024,format=yuv420p" -r 4 -c:v libx264 -preset ultrafast -crf 28 /tmp/clip3.mp4
+
+# 2. Concatenate clips + add narration audio
+printf "file '/tmp/clip1.mp4'\nfile '/tmp/clip2.mp4'\nfile '/tmp/clip3.mp4'\n" > /tmp/clips.txt
+ffmpeg -y -f concat -safe 0 -i /tmp/clips.txt -i narration.mp3 \
+  -map 0:v -map 1:a -c:v libx264 -preset fast -crf 26 -c:a aac -b:a 128k -shortest \
+  ep-youtube.mp4
+```
+⚠️ Use `-r 4` (4fps) for still-image clips — keeps file size small. Do NOT use xfade filter on still images — it's too slow.
+
+---
+
+## Phase 6 — Publishing
+
+### YouTube Upload Checklist
+1. **File:** MP4 (H.264 + AAC) — YouTube does not accept MP3
+2. **Thumbnail:** Use Scene 3 (destination/rest) or a dedicated cover image — Pixar-storybook style, face visible
+3. **Title format:** `[Episode Title] 🌙 | Sleepy Space Explorer Ep. [N] | Kids Bedtime Story`
+4. **Description template:**
+```
+[1-2 sentence hook — what happens in this episode]
+
+This is a calm, story-first bedtime podcast for kids ages 5–10. No body-scan coaching — just a slow, wonder-filled adventure that carries your little one gently to sleep.
+
+🌙 Perfect for:
+- Bedtime wind-down
+- Naptime
+- Calm listening anytime
+
+🚀 New episodes coming soon — subscribe so you don't miss them!
+
+---
+Sleepy Space Explorer is a kids' bedtime podcast full of gentle adventures through space, nature, and dreamlike worlds. Each episode is a slow, sensory story designed to carry children peacefully to sleep.
+```
+5. **Tags:** kids bedtime story, bedtime podcast for kids, sleep story for kids, kids meditation, space story for kids, calm kids podcast, children's podcast, ages 5-8
+6. **Category:** Education
+7. **Made for Kids:** ✅ Yes — required; affects YouTube Kids eligibility
+8. **Visibility:** Public
+9. **Commit** script + metadata to GitHub after publishing (audio/video excluded via `.gitignore`)
 
 ---
 
