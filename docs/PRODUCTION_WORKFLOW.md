@@ -66,6 +66,13 @@ Do not run all the way to MP4 in one shot. Each phase requires Mumen's explicit 
 - Before writing the opener, check what the prior episode used and pick different sensory anchors
 - Track per-episode used details in the episode's `metadata.md`
 
+### Details Library — Imaginative Use Policy
+- The details library (`DETAILS_LIBRARY.md`) is a *reference*, not a checklist to work through
+- **Don't mechanically pull items from the library** — use it as inspiration to spark better choices
+- If the library has "eucalyptus," consider jacaranda, mulberry, wild oat grass, or any other tree/plant that feels fresh and right for *this* episode
+- The best detail is the one that serves the scene — specific, sensory, unexpected, and poetic
+- Library entries describe *the family of thing* (night-blooming flower, tall shade tree, backyard bird); the script should pick the most evocative *member* of that family for the moment
+
 ### Target Length
 - ~22,000 chars / ~20 min per episode (calibration: ~1,100 chars ≈ 1 min at Fable 1.0x)
 - Split into 18–22 chunks of ≤ 4,096 chars each
