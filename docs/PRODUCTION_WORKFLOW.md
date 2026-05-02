@@ -60,6 +60,12 @@ Do not run all the way to MP4 in one shot. Each phase requires Mumen's explicit 
 - ❌ Wrong: *"Sleep now, little explorer. Let your eyes close. Drift off to sleep."*
 - The listener falls asleep inside the adventure, not because they were told to
 
+### Backyard Variety Rule
+- The backyard is the launch location for every episode — that's fine
+- But **specific details must rotate** — never reuse the same tree, plant, creature, or smell that appeared in a previous episode's opener
+- Before writing the opener, check what the prior episode used and pick different sensory anchors
+- Track per-episode used details in the episode's `metadata.md`
+
 ### Target Length
 - ~22,000 chars / ~20 min per episode (calibration: ~1,100 chars ≈ 1 min at Fable 1.0x)
 - Split into 18–22 chunks of ≤ 4,096 chars each
