@@ -147,7 +147,11 @@ ffmpeg -f concat -safe 0 -i /tmp/epXX-parts.txt \
 - **Lighting:** Warm luminous glow from the episode's destination (planet, moon, etc.) illuminates the character against a dark cool background — this contrast is the key visual hook
 - **Mood:** Wonder, calm adventure, safe exploration — awe not fear
 - **Format:** 16:9 for thumbnails; 1024×1024 square for scene art
-- **No text in image** — title goes on YouTube as overlay/thumbnail text if needed
+- **Thumbnail text (baked into image):** Two lines of text overlaid on the image:
+  - *Line 1 (large bold white):* The episode's catchy story title (e.g. "Floating Through Saturn's Rings")
+  - *Line 2 (smaller, elegant):* "A Bedtime Story 🌙"
+  - Text must be clean, readable, and contrast well against the dark background
+  - The subtitle "A Bedtime Story" signals to parents immediately what the content is
 - **Thumbnail prompt structure:** `Children's storybook illustration in soft painterly digital gouache style with paper-grain texture. A child around 10-12 years old in a cozy padded spacesuit with a rounded helmet, [action/position] near [episode destination]. [Destination] glows in warm amber and orange tones. Deep navy midnight background with small soft twinkling stars. Strong warm orange-amber glow illuminates the child's face and suit. Child's expression: wonder and calm amazement. Simplified but not babyish character design. Dreamy, cozy bedtime adventure mood. No text. 16:9 wide format.`
 
 ### 3-Scene Video Art (for YouTube MP4)
