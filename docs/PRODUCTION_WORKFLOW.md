@@ -138,14 +138,17 @@ ffmpeg -f concat -safe 0 -i /tmp/epXX-parts.txt \
 
 ## Phase 5 — Cover Art
 
-### Style (locked from ep01)
+### Style (locked from ep02 video — updated 2026-05-02)
 - **Model:** `openai/gpt-image-1` (OpenAI image generation v2)
-- **Style:** Pixar-storybook — bold, clean, friendly, slightly cartoonish but warm and detailed
-- **Palette:** Deep midnight blue, warm golds, soft silver — rich but calming
-- **Character:** Cute kid explorer with a face and personality — gives ages 6–8 something to connect with
-- **Mood:** Curious and cozy, not scared or excited
-- **Format:** 1024×1024 square
+- **Style:** Soft painterly digital gouache with paper-grain texture — storybook illustration feel, not Pixar 3D
+- **Palette:** Deep navy/midnight blue backgrounds, strong warm orange-amber glow from celestial bodies (Saturn, moon, etc.), muted teal and cream accents — cool vs. warm contrast is the visual signature
+- **Character:** Older kid explorer, ~10–12 years old — more proportioned than a toddler, but still stylized with rounded face and expressive eyes; child should feel relatable to ages 8–12, not babyish
+- **Rendering:** Simplified forms, soft brush texture, gentle shading — not photorealistic; edges mostly soft with minimal harsh linework
+- **Lighting:** Warm luminous glow from the episode's destination (planet, moon, etc.) illuminates the character against a dark cool background — this contrast is the key visual hook
+- **Mood:** Wonder, calm adventure, safe exploration — awe not fear
+- **Format:** 16:9 for thumbnails; 1024×1024 square for scene art
 - **No text in image** — title goes on YouTube as overlay/thumbnail text if needed
+- **Thumbnail prompt structure:** `Children's storybook illustration in soft painterly digital gouache style with paper-grain texture. A child around 10-12 years old in a cozy padded spacesuit with a rounded helmet, [action/position] near [episode destination]. [Destination] glows in warm amber and orange tones. Deep navy midnight background with small soft twinkling stars. Strong warm orange-amber glow illuminates the child's face and suit. Child's expression: wonder and calm amazement. Simplified but not babyish character design. Dreamy, cozy bedtime adventure mood. No text. 16:9 wide format.`
 
 ### 3-Scene Video Art (for YouTube MP4)
 Generate 3 illustrations following the story arc:
